@@ -1,11 +1,6 @@
----
-title: "ryangifford.github.io"
----
 
-This is a Quarto website.
+<center>Welcome to me website. </center>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+See various reports in the sidebar. 
 
-```{r}
-1 + 1
-```
+[About Me](about.qmd)

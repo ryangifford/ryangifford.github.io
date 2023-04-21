@@ -3,18 +3,32 @@ project:
   output-dir: docs
 
 website:
-  title: "ryangifford.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Ryan Gifford"
+  search: 
+    location: sidebar
+    type: textbox
 
+    
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+  
+      - section: "Economics"
+        contents:
+
+      - section: "Statistics"
+        contents:
+          - sampling_distributions.Rmd
+          
+      - contents:
+        - about.qmd
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
 
+page-footer: "Copyright 2021, Norah Jones" 
 
 
