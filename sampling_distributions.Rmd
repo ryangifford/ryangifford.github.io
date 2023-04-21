@@ -1,5 +1,5 @@
 ---
-title: "Sampling Distributions Explained)"
+title: "Sampling Distributions Explained"
 output: html_document
 ---
 
