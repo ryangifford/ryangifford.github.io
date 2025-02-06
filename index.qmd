@@ -15,8 +15,8 @@
 ## Experience
 
 <b>
-<p style="margin:0;display:inline;float:left">Senior Data Analyst | Healthcare Data Analytics</p>
-<p style="margin:0;display:inline;float:right">April 2021 – Current</p>
+<p style="margin:0;display:inline;float:left">Senior Data Analyst | Aspen Tech Labs/Healthcare Data Analytics</p>
+<p style="margin:0;display:inline;float:right">Apr. 2021 – Current</p>
 </b>
 
 <br>
