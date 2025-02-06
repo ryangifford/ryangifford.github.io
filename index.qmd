@@ -1,20 +1,8 @@
-
-
-Welcome to me website...
-
-<br>
-
-## About Me
-
-<br>
-
-
-
-
+# Ryan Gifford
+208-313-2514 | gifford.ryan95@gmail.com
 
 
 ## Education
-
 
 <b>
 <p style="margin:0;display:inline;float:left">Economics, B.S. | Brigham Young University - Idaho</p>
@@ -23,12 +11,6 @@ Welcome to me website...
 <br>
 <li> 3.76 GPA, Ezra Taft Benson Excellence in Economics Award</li>
 <li> Minor in statistics</li>
-<br>
-
-
-## Skills
-
-
 
 ## Experience
 
@@ -91,19 +73,3 @@ suggestions to city officials, a school board, and state legislatures</li>
 <li> Created an Excel tool to automate and simplify annexation processes for the City of Idaho Falls
 <li> Collaborated well with various teams, clients, and supervisors and in turn was offered a paid position</li>
 
-## Interests
-
-
-### Biking
-
-<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/EgMXi2iXFZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
-
-### Music
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4ogcG91OzkXA0FI9eausVi?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<br>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1RthiVkyHBE4CF15018zlv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -1,0 +1,17 @@
+
+# Interests
+
+
+## Biking
+
+<iframe style="border-radius:12px" width="90%" height="500" src="https://www.youtube.com/embed/EgMXi2iXFZw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+## Music
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4ogcG91OzkXA0FI9eausVi?utm_source=generator" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1RthiVkyHBE4CF15018zlv?utm_source=generator" width="90%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -7,29 +7,34 @@ website:
   search: 
     location: sidebar
     type: textbox
-
     
   sidebar:
     style: "docked"
+    background: "secondary"
     search: true
     contents:
-  
-      - section: "Economics"
-        contents:
+      - text: "Resume"
+        href: index.qmd
+      - text: "Interests"
+        href: interests.qmd
 
-      - section: "Statistics"
-        contents:
-          - sampling_distributions.Rmd
+  navbar:
+    search: true
+    background: "secondary"
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/giffordryan/
+      - icon: github
+        href: https://github.com/ryangifford
+
           
-      - contents:
-        - about.qmd
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
-page-footer: "Copyright 2021, Norah Jones" 
+page-footer: "Copyright 2025, Ryan Gifford" 
 
 
 html:
