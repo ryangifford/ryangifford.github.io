@@ -15,8 +15,12 @@ website:
     contents:
       - text: "Resume"
         href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
       - text: "Interests"
         href: interests.qmd
+
+
 
   navbar:
     search: true
@@ -26,6 +30,8 @@ website:
         href: https://www.linkedin.com/in/giffordryan/
       - icon: github
         href: https://github.com/ryangifford
+      - icon: youtube
+        href: https://www.youtube.com/@ryan.gifford
 
           
 format:
