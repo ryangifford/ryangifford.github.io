@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Ryan Gifford"
+  favicon: images/favicon.svg
   search: 
     location: sidebar
     type: textbox
@@ -13,8 +14,11 @@ website:
     background: "secondary"
     search: true
     contents:
-      - text: "Resume"
+      - text: "Home"
         href: index.qmd
+        icon: home
+      - text: "Résumé"
+        href: resume.qmd
       - text: "Projects"
         href: projects.qmd
       - text: "Interests"

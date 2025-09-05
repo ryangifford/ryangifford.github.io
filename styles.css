@@ -1,1 +1,22 @@
 /* css styles */
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #resume-content, #resume-content * {
+    visibility: visible;
+  }
+  #resume-content {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+
+.btn-primary {
+  background-color: #6aa84f !important;  /* button background */
+  border-color: #6aa84f !important;      /* border color */
+  color: #fff !important;                /* text color */
+  border-radius: 10px;
+}

@@ -1,6 +1,6 @@
-
-# Projects
-
+---
+title: "Projects"
+---
 
 ## Aviation Data Analytics
 

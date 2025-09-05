@@ -1,0 +1,85 @@
+---
+title: "Résumé"
+---
+<button onclick="window.print()" class="btn btn-primary">
+  Save as PDF
+</button>
+
+
+<div id="resume-content">
+## Ryan Gifford
+208-313-2514 | gifford.ryan95@gmail.com
+
+
+### Education
+
+<b>
+<p style="margin:0;display:inline;float:left">Economics, B.S. | Brigham Young University - Idaho</p>
+<p style="margin:0;display:inline;float:right">Graduated: Apr. 2021</p>
+</b>
+<br>
+<li> 3.76 GPA, Ezra Taft Benson Excellence in Economics Award</li>
+<li> Minor in statistics</li>
+
+### Work Experience
+
+<b>
+<p style="margin:0;display:inline;float:left">Senior Data Analyst | Aspen Tech Labs/Healthcare Data Analytics</p>
+<p style="margin:0;display:inline;float:right">Apr. 2021 – Current</p>
+</b>
+
+<br>
+
+<li> Assist startup with the implementation of Google’s data platform, Looker, and ensures scaleability
+<li> Design queries and dashboards to show insights from pricing data of over 6,000 US hospitals
+<li> Use web development techniques to ensure dashboards are customer friendly, navigable, and visually pleasing
+<li> Collaborate with team members and iterate through dev, qa, and prod workflows using Git
+<li> Assist Product Manager with up to 5 sales calls/week to provide demonstrations and technical input to hospitals, insurance companies, and healthcare consultants</li>
+<li> Use Python to automate many BI tasks and create scripts to generate insights from billions of records</li>
+
+<br>
+
+<b>
+<p style="margin:0;display:inline;float:left">Data Consultant | Good2Go</p>
+<p style="margin:0;display:inline;float:right">Jan. 2021 – Apr. 2021</p>
+</b>
+
+<br>
+
+<li> Worked closely with executives at Good2Go to explore forecasting techniques and data automation
+<li> Manipulated two years of transactional data from over 60 convenience stores into datasets for analysis
+<li> Implemented time-series forecasting models such as seasonal naïve, ARIMA, and exponential smoothing
+<li> Designed and launched Power BI dashboard that included graphs and tables of sales forecasts, a location
+map, and model validation/accuracy predictions</li>
+
+<br>
+
+<b>
+<p style="margin:0;display:inline;float:left">Project Manager | Research and Business Development Center</p>
+<p style="margin:0;display:inline;float:right">Apr. 2020 – Apr. 2021</p>
+</b>
+
+<br>
+
+<li> Facilitated research efforts of 5-7 intern teams working on a variety of consulting projects for small startups, governments, schools, and international companies such as Emerson Electric and FXI</li>
+<li> Trained teams weekly on Agile methodology, competitive analysis, or other essential business skills
+<li> Resolved team conflicts and roadblocks by maintaining daily contact with team leaders, attending client
+meetings, providing suggestions and giving correction when necessary
+<li> Restructured administrative database to organize documents, spreadsheets, and other training materials</li>
+
+
+<br>
+
+<b>
+<p style="margin:0;display:inline;float:left">Research Analyst | Research and Business Development Center</p>
+<p style="margin:0;display:inline;float:right">Sep. 2019 – Dec. 2019</p>
+</b>
+
+<br>
+
+<li> Utilized Excel to analyze large amounts of data and used findings to propose high school curriculum
+suggestions to city officials, a school board, and state legislatures</li>
+<li> Created an Excel tool to automate and simplify annexation processes for the City of Idaho Falls
+<li> Collaborated well with various teams, clients, and supervisors and in turn was offered a paid position</li>
+
+</div>
