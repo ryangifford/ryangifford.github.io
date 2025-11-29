@@ -6,8 +6,8 @@
   
 ## Ryan Gifford  
 
-Welcome! I’m Ryan Gifford, a data analyst and aviation enthusiast based in Idaho.  
-I love flying (currently working on my instrument rating),  
+Welcome! I’m Ryan Gifford, a data analyst and aviation enthusiast based in Minnesota.  
+I love flying airplanes,  
 building data tools in R and Python, and exploring new places.  
 
 </div>

@@ -23,19 +23,29 @@ title: "Résumé"
 
 ### Work Experience
 
+
 <b>
-<p style="margin:0;display:inline;float:left">Senior Data Analyst | Aspen Tech Labs/Healthcare Data Analytics</p>
-<p style="margin:0;display:inline;float:right">Apr. 2021 – Current</p>
+<p style="margin:0;display:inline;float:left">Data Analyst II | Cirrus Aircraft</p>
+<p style="margin:0;display:inline;float:right">Nov. 2025 – Current</p>
 </b>
 
 <br>
 
-<li> Assist startup with the implementation of Google’s data platform, Looker, and ensures scaleability
-<li> Design queries and dashboards to show insights from pricing data of over 6,000 US hospitals
-<li> Use web development techniques to ensure dashboards are customer friendly, navigable, and visually pleasing
-<li> Collaborate with team members and iterate through dev, qa, and prod workflows using Git
-<li> Assist Product Manager with up to 5 sales calls/week to provide demonstrations and technical input to hospitals, insurance companies, and healthcare consultants</li>
-<li> Use Python to automate many BI tasks and create scripts to generate insights from billions of records</li>
+<li> Use data tools to assist with predictive maintenance projects
+
+<b>
+<p style="margin:0;display:inline;float:left">Senior Data Analyst | Aspen Tech Labs/Healthcare Data Analytics</p>
+<p style="margin:0;display:inline;float:right">Apr. 2021 – Oct. 2025</p>
+</b>
+
+<br>
+
+<li> Assisted startup with the implementation of Google’s data platform, Looker, and ensured scaleability
+<li> Designed queries and dashboards to show insights from pricing data of over 6,000 US hospitals
+<li> Used web development techniques to ensure dashboards are customer friendly, navigable, and visually pleasing
+<li> Collaborated with team members and iterate through dev, qa, and prod workflows using Git
+<li> Assisted Product Manager with up to 5 sales calls/week to provide demonstrations and technical input to hospitals, insurance companies, and healthcare consultants</li>
+<li> Used Python to automate many BI tasks and create scripts to generate insights from billions of records</li>
 
 <br>
 
